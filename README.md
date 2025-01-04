@@ -3,10 +3,15 @@ MindMend is a mobile application designed to support mental health and well-bein
 Features -->
 
 Mood Tracking: Log your current mood and its intensity through a simple and interactive interface.
+
 Journal Entries: Write and save personal reflections, thoughts, or experiences in a built-in notepad.
+
 Curated Resources: Access articles, videos, and tips tailored to specific moods to help you manage and improve your mental health.
+
 Daily Notifications: Gentle reminders to check in with yourself and log your mood.
+
 Mood History: Review past entries to track emotional trends over time (future enhancement).
+
 Customizable Themes: Dark mode support and intuitive design for ease of use.
 
 ![Screenshot 2025-01-04 at 10 44 21 PM](https://github.com/user-attachments/assets/13e3a2d9-5947-4bb5-9f6c-552b4cda680a)
